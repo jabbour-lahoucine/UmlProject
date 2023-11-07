@@ -132,7 +132,7 @@ cahier des charges
     
       * Intégration de fonctionnalités spécifiques (paiements en ligne, messagerie interne, système de réservation, etc.): 2 à 4 mois.
       
-    Total du Délai de Réalisation :
+  Total du Délai de Réalisation :
     
       * De 12 mois à 2 ans ou plus, en fonction de la portée et de la complexité du projet.
 
