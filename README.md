@@ -108,13 +108,13 @@ cahier des charges
 
 6 - Délais de réalisation : 
 
-  Estimation approximative des délais pour différentes phases du projet :
+ Estimation approximative des délais pour différentes phases du projet :
   
-    6-1. Conception Initiale et Planification :
+ 6-1. Conception Initiale et Planification :
     
       * Durée : 1 à 2 mois.
       
-    6-2. Développement de l'Application :
+ 6-2. Développement de l'Application :
     
       * Conception et développement de l'application mobile (iOS et Android) : 4 à 8 mois.
       
@@ -122,13 +122,13 @@ cahier des charges
       
       * Infrastructure backend (serveurs, bases de données, etc.) : 2 à 4 mois.
       
-    6-3. Gestion de Projet et Tests :
+ 6-3. Gestion de Projet et Tests :
     
       * Gestion de projet et planification : Tout au long du projet.
       
       * Assurance qualité et tests : 2 à 4 mois.
       
-    6-4. Intégration de Fonctionnalités :
+  6-4. Intégration de Fonctionnalités :
     
       * Intégration de fonctionnalités spécifiques (paiements en ligne, messagerie interne, système de réservation, etc.): 2 à 4 mois.
       
