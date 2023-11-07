@@ -5,23 +5,34 @@ cahier des charges
 
 1 - Contexte et définition du projet :
 
-    Le projet vise à développer une plate-forme mobile et web qui facilite la location à court terme de biens immobiliers. Cette plate-forme permettra de mettre en relation les propriétaires de biens immobiliers (hôtes) avec des voyageurs (invités) à la recherche d'hébergements pour de courts séjours, des vacances ou des voyages d'affaires. L'objectif principal est de créer une application conviviale et riche en fonctionnalités qui simplifie le processus de mise en location, de réservation et de gestion des propriétés.
+    Le projet vise à développer une plate-forme mobile et web qui facilite la location à court terme de biens immobiliers. 
+    Cette plate-forme permettra de mettre en relation les propriétaires de biens immobiliers (hôtes) avec des voyageurs (invités) 
+    à la recherche d'hébergements pour de courts séjours, des vacances ou des voyages d'affaires. L'objectif principal est de créer une application conviviale 
+    et riche en fonctionnalités qui simplifie le processus de mise en location, de réservation et de gestion des propriétés.
 
 2 - Objectif du projet :
 
-    Développement de la plate-forme : L’objectif principal est de créer et de mettre en œuvre une application web, iOS et Android qui permet aux hôtes de lister leurs propriétés et permet aux visiteurs de trouver et de réserver facilement un hébergement.
+    Développement de la plate-forme : L’objectif principal est de créer et de mettre en œuvre une application web, 
+    iOS et Android qui permet aux hôtes de lister leurs propriétés et permet aux visiteurs de trouver et de réserver facilement un hébergement.
 
-    Expérience utilisateur : L’application devrait avoir une interface facile à utiliser qui est à la fois visuellement attrayante et intuitive, rendant les réservations pour les clients rapides et simples et simplifiant l’entretien de la propriété pour les hôtes.
+    Expérience utilisateur : L’application devrait avoir une interface facile à utiliser qui est à la fois visuellement attrayante et intuitive, 
+    rendant les réservations pour les clients rapides et simples et simplifiant l’entretien de la propriété pour les hôtes.
     
-    Intégration des paiements : Inclure des outils de traitement des paiements sécurisés afin que les consommateurs puissent gérer leurs finances et faire des réservations directement à partir de l’application .
+    Intégration des paiements : Inclure des outils de traitement des paiements sécurisés afin que les consommateurs puissent gérer 
+    leurs finances et faire des réservations directement à partir de l’application .
     
-    message et communication : Mettre en place une plate-forme de messages afin que les visiteurs et les hôtes puissent entrer en contact, résoudre les problèmes et planifier leurs visites.
+    message et communication : Mettre en place une plate-forme de messages afin que les visiteurs et les hôtes puissent entrer en contact, 
+    résoudre les problèmes et planifier leurs visites.
 
-    Commentaires et revues : ajoutez un mécanisme pour les avis et les évaluations afin que les gens puissent évaluer la fiabilité des hôtes et des visiteurs et offrir leurs commentaires. Cela aiderait à instaurer la confiance et l’ouverture au sein de la collectivité.
+    Commentaires et revues : ajoutez un mécanisme pour les avis et les évaluations afin que les gens puissent évaluer la fiabilité des hôtes 
+    et des visiteurs et offrir leurs commentaires. Cela aiderait à instaurer la confiance et l’ouverture au sein de la collectivité.
     
-    Sécurité : priorisez les fonctionnalités qui augmentent la sécurité et la confiance, comme les évaluations des utilisateurs, le traitement sécurisé des paiements et la vérification d’identité.
+    Sécurité : priorisez les fonctionnalités qui augmentent la sécurité et la confiance, comme les évaluations des utilisateurs, 
+    le traitement sécurisé des paiements et la vérification d’identité.
     
-    La plateforme vise à améliorer l'expérience tant des hôtes que des voyageurs en offrant des avantages significatifs, tels que la possibilité pour les hôtes d'augmenter leurs revenus en mettant en location leurs biens immobiliers de manière transparente, tout en permettant aux voyageurs de trouver facilement des hébergements de qualité pour leurs séjours temporaires. 
+    La plateforme vise à améliorer l'expérience tant des hôtes que des voyageurs en offrant des avantages significatifs, tels que la possibilité pour 
+    les hôtes d'augmenter leurs revenus en mettant en location leurs biens immobiliers de manière transparente, tout en permettant aux voyageurs de trouver 
+    facilement des hébergements de qualité pour leurs séjours temporaires. 
 
 3 - Périmètre du projet:
 
@@ -45,27 +56,35 @@ cahier des charges
 
    Gestion des Utilisateurs :
    
-    *   Inscription et Connexion : Les utilisateurs doivent avoir la possibilité de s'inscrire via leur adresse e-mail ou leur compte de média social, ainsi que de se connecter de manière sécurisée.
+    *   Inscription et Connexion : Les utilisateurs doivent avoir la possibilité de s'inscrire via leur adresse e-mail 
+    ou leur compte de média social, ainsi que de se connecter de manière sécurisée.
       
-    *   Gestion de Profils : Les utilisateurs doivent pouvoir créer et gérer leur profil, y compris des informations personnelles, des photos, et des préférences.
+    *   Gestion de Profils : Les utilisateurs doivent pouvoir créer et gérer leur profil, 
+    y compris des informations personnelles, des photos, et des préférences.
       
-    *  Vérification d'Identité : Un système de vérification d'identité doit être mis en place pour garantir la sécurité et la confiance entre les utilisateurs.
+    *  Vérification d'Identité : Un système de vérification d'identité doit être mis en place 
+    pour garantir la sécurité et la confiance entre les utilisateurs.
       
   Recherche et Réservation :
   
-    *   Recherche Avancée : Les invités doivent avoir la possibilité de rechercher des logements en fonction de critères tels que la localisation, le prix, le type de logement, les commodités, etc.
+    *   Recherche Avancée : Les invités doivent avoir la possibilité de rechercher des logements en fonction de critères 
+    tels que la localisation, le prix, le type de logement, les commodités, etc.
       
-    *   Liste de Résultats : Les résultats de la recherche doivent s'afficher de manière claire, avec des informations détaillées sur les logements, des photos, des tarifs, et des avis d'autres utilisateurs.
+    *   Liste de Résultats : Les résultats de la recherche doivent s'afficher de manière claire, avec des informations 
+    détaillées sur les logements, des photos, des tarifs, et des avis d'autres utilisateurs.
     
-    *   Réservation et Paiement : Les invités doivent pouvoir réserver un logement de manière sécurisée via l'application, avec des options de paiement en ligne.
+    *   Réservation et Paiement : Les invités doivent pouvoir réserver un logement de manière sécurisée via l'application, 
+    avec des options de paiement en ligne.
       
   Gestion des Hôtes :
   
-    *  Publication de Logements : Les hôtes doivent pouvoir ajouter des annonces pour leurs logements, y compris des descriptions détaillées, des photos, des prix, des calendriers de disponibilité, etc.
+    *  Publication de Logements : Les hôtes doivent pouvoir ajouter des annonces pour leurs logements, y compris des descriptions 
+    détaillées, des photos, des prix, des calendriers de disponibilité, etc.
       
     *  Communication avec les Invités : Les hôtes doivent pouvoir communiquer avec les invités potentiels via la messagerie interne de l'application.
     
-    *   Gestion des Réservations : Les hôtes doivent pouvoir accepter ou refuser des réservations, gérer les calendriers de disponibilité, et répondre aux avis des invités.
+    *   Gestion des Réservations : Les hôtes doivent pouvoir accepter ou refuser des réservations, gérer les calendriers 
+    de disponibilité, et répondre aux avis des invités.
       
     *   Système de Notation et d'Avis : Un système de notation doit être en place pour évaluer la qualité des hôtes et des invités.
     
